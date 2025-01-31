@@ -1,0 +1,16 @@
+2025-01-31 19:02:37,446 - INFO - Script execution started with settings: -r GRCh38.d1.vd1.fa -i FP_SNPs_10k_GB38_twoAllelsFormat.tsv -o FP_SNPs_REF_ALT.tsv
+2025-01-31 19:02:37,569 - INFO - Reference file: GRCh38.d1.vd1.fa
+2025-01-31 19:02:37,569 - INFO - Input file: FP_SNPs_10k_GB38_twoAllelsFormat.tsv
+2025-01-31 19:02:37,569 - INFO - Output file: FP_SNPs_REF_ALT.tsv
+2025-01-31 19:02:38,546 - WARNING - Failed to define reference allele for variant rs2274617, line 420. G is not T/C.
+2025-01-31 19:02:50,536 - WARNING - Failed to define reference allele for variant rs4342964, line 5967. G is not T/C.
+2025-01-31 19:02:50,546 - WARNING - Failed to define reference allele for variant rs11204215, line 5968. T is not C/A.
+2025-01-31 19:02:50,547 - WARNING - Failed to define reference allele for variant rs12414155, line 5969. A is not T/C.
+2025-01-31 19:02:50,556 - WARNING - Failed to define reference allele for variant rs2790937, line 5970. T is not G/A.
+2025-01-31 19:02:50,591 - WARNING - Failed to define reference allele for variant rs10994675, line 5977. C is not A/G.
+2025-01-31 19:02:51,971 - WARNING - Failed to define reference allele for variant rs527464, line 6508. G is not C/T.
+2025-01-31 19:02:55,531 - WARNING - Failed to define reference allele for variant rs7174982, line 8062. G is not T/C.
+2025-01-31 19:02:55,532 - WARNING - Failed to define reference allele for variant rs4778334, line 8063. A is not T/C.
+2025-01-31 19:03:00,049 - WARNING - Wrong format in line 10002, failed to process.
+2025-01-31 19:03:00,050 - INFO - Script execution completed successfully. Failed to process 9 cases.
+
